@@ -1,0 +1,8 @@
+node_modules/
+examples/
+src/
+
+tsconfig.json
+.gcloudignore
+.gitignore
+.*.ts
